@@ -7,7 +7,7 @@
 
 ## Autor
 
-- [@estudiante](https://www.github.com/estudiante)
+- [@DanielAngul0](https://github.com/DanielAngul0)
 
 ## Descripción del Proyecto
 
